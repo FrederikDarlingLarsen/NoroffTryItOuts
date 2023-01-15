@@ -9,3 +9,9 @@
 
 //4. Use the prototype chain to let ElectricGuitarinherit the prototype of Guitar, instantiate a new ElectricGuitar object, call the play()
 //method and log the value of the object to the console.
+
+//From codepen
+function Guitar() {
+    this.sound = "Silence"
+  }
+  
